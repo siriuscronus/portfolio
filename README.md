@@ -10,7 +10,7 @@ Senior technology and transformation leader with 20+ years of experience deliver
 
 My work focuses on turning strategy into disciplined execution through governance, risk and cost control, stakeholder alignment, delivery frameworks, measurable KPIs, and cross-functional leadership.
 
-I combine program leadership with deep telecommunications and engineering experience, strategic consulting, software and SaaS delivery, and applied AI to support complex technology transformation.
+I combine program leadership with deep telecommunications and engineering experience, strategic consulting, software and SaaS delivery, solution architecture, and applied AI to support complex technology transformation.
 
 ---
 
@@ -23,6 +23,7 @@ I combine program leadership with deep telecommunications and engineering experi
 | Portfolio Scale | Environments up to USD 130M |
 | Regional Portfolio Leadership | Approximately USD 90M across telecom, cloud, and infrastructure |
 | National Broadband Program | USD 39.7M program |
+| Solution & Product Architecture | National telecom management platform and technology product initiatives |
 | Delivery Models | Predictive, Agile, Scrum, Hybrid |
 | Industries | Telecommunications, IT, Cloud, SaaS, Digital Transformation |
 | Governance | PMO, OKR, KPI, Risk, Financial Control, Executive Reporting |
@@ -38,6 +39,8 @@ I combine program leadership with deep telecommunications and engineering experi
 - Technology Delivery Leadership
 - Digital Infrastructure Strategy
 - Telecommunications Program Management
+- Solution and Product Architecture
+- Software Development Management
 - Cloud and SaaS Delivery
 - Product and Technical Program Management
 - Post-Sales Project Management
@@ -55,9 +58,11 @@ I combine program leadership with deep telecommunications and engineering experi
 
 ## Selected Executive Portfolio
 
-### 1. National Digital Infrastructure Strategy & Regulatory Modernization
+### 1. National Digital Infrastructure Strategy, Network Management Platform & Regulatory Modernization
 
-National-level telecommunications consulting engagement covering broadband market analysis, 10-year demand outlook, operator benchmarking, telecommunications architecture, strategic decision support, and regulatory modernization.
+National-level telecommunications consulting engagement covering broadband market analysis, 10-year demand outlook, operator benchmarking, telecommunications architecture, regulatory modernization, and the architecture and development management of a national telecommunications network management platform spanning multiple operators and technologies.
+
+**Role:** Project Director | Solution / Product Architect
 
 [View case study](./case-studies/avasant-national-digital-strategy.md)
 
@@ -143,7 +148,7 @@ This teaching and knowledge-transfer background strengthens my ability to bridge
 
 ## Technology & Engineering Domains
 
-Telecommunications · RAN · Core Networks · IP/MPLS · Microwave · GPON · IMS · VoLTE · VoWiFi · Datacenters · Cloud · SaaS · Cybersecurity · APIs · DevOps · CI/CD · AI · Agentic Systems
+Telecommunications · RAN · Core Networks · IP/MPLS · Microwave · GPON · IMS · VoLTE · VoWiFi · Datacenters · Cloud · SaaS · Cybersecurity · APIs · Software Platforms · AI · Agentic Systems
 
 ---
 
@@ -155,13 +160,13 @@ PMP / PMBOK · PMI-ACP · Scrum · Hybrid Delivery · Agile · Waterfall · OKR 
 
 ## Tools & Platforms
 
-Jira · Asana · Trello · ClickUp · Smartsheet · Microsoft Project · GitHub · AWS · Jenkins · CI/CD environments
+Jira · Asana · Trello · ClickUp · Smartsheet · Microsoft Project · GitHub · AWS
 
 ---
 
 ## Executive Value Proposition
 
-I work at the intersection of business strategy, program governance, engineering, digital infrastructure, and technology delivery. My focus is to convert complex technical initiatives into controlled programs with clear accountability, measurable outcomes, and executive visibility.
+I work at the intersection of business strategy, program governance, engineering, digital infrastructure, solution architecture, and technology delivery. My focus is to convert complex technical initiatives into controlled programs and scalable technology solutions with clear accountability, measurable outcomes, and executive visibility.
 
 ---
 
