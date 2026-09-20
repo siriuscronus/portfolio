@@ -59,23 +59,33 @@ I combine program leadership with deep telecommunications and engineering experi
 
 National-level telecommunications consulting engagement covering broadband market analysis, 10-year demand outlook, operator benchmarking, telecommunications architecture, strategic decision support, and regulatory modernization.
 
+[View case study](./case-studies/avasant-national-digital-strategy.md)
+
 ### 2. USD 39.7M National Broadband Program
 
 Program leadership spanning broadband architecture, design, governance, procurement strategy, and multi-stakeholder coordination for national digital infrastructure.
+
+[View case study](./case-studies/national-broadband-program.md)
 
 ### 3. Regional Telecom, Cloud & Infrastructure Portfolio
 
 Leadership of an approximately USD 90M regional portfolio across telecommunications, cloud, and infrastructure, with emphasis on KPI governance, SLA performance, risk control, financial visibility, and executive reporting.
 
+[View case study](./case-studies/huawei-regional-portfolio.md)
+
 ### 4. Enterprise SaaS & Post-Sales Delivery
 
 Post-sales leadership for enterprise SaaS solutions across Latin America, coordinating customers, engineering, architecture, technical support, service continuity, and software delivery.
+
+[View case study](./case-studies/axxis-saas-delivery.md)
 
 ### 5. WaveNexus Technology Product Program
 
 Product and technical program leadership for a microwave network planning and engineering platform integrating RF, propagation, GIS, terrain, synchronization, transport, reporting, licensing, enterprise capabilities, and AI-assisted development.
 
-[View Executive Case Studies](./case-studies/README.md)
+[View case study](./case-studies/wavenexus-program.md)
+
+[View all Executive Case Studies](./case-studies/README.md)
 
 ---
 
@@ -123,9 +133,11 @@ Applied AI, automation, and agentic workflows for technology leadership and prog
 
 **Selected domains:**
 
-5G NSA/SA · 5G Core · Microwave Planning · Broadband Architecture · NGN · IP/MPLS · Intelligent Networks · Transport Networks · Network Modernization · Agile & Project Management
+5G NSA/SA · 5G Core · RAN · Microwave Planning · Broadband Architecture · NGN · IP/MPLS · Intelligent Networks · Transport Networks · Network Modernization · Agile & Project Management
 
 This teaching and knowledge-transfer background strengthens my ability to bridge engineering depth, executive communication, and organizational capability development.
+
+[View Technical Leadership Profile](./technical-leadership/README.md)
 
 ---
 
