@@ -107,7 +107,7 @@ Applications include:
 
 WaveNexus demonstrates the intersection of:
 
-Product Management · Technical Program Management · Telecommunications Engineering · Software Delivery · Architecture Governance · QA · CI/CD · AI-Assisted Development
+Product Management · Technical Program Management · Telecommunications Engineering · Software Delivery · Architecture Governance · Quality Assurance · AI-Assisted Development
 
 ## Confidentiality
 
