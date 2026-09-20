@@ -1,8 +1,8 @@
 # Rodrigo Campos
 
-## Technology Program & Portfolio Leader
+## Engineering Executive | Digital Infrastructure Modernization | Systems Integration | Complex Program & Portfolio Leadership | Telecommunications | Artificial Intelligence
 
-**Program Management | Portfolio Governance | PMO | Telecommunications | Cloud | Digital & AI Transformation**
+**Program Management | Portfolio Governance | PMO | Telecom Architecture | Cloud | SaaS | Digital & AI Transformation**
 
 MBA | MSc | PMP | PMI-ACP | PSM I
 
