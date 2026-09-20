@@ -10,7 +10,7 @@ Senior technology and transformation leader with 20+ years of experience deliver
 
 My work focuses on turning strategy into disciplined execution through governance, risk and cost control, stakeholder alignment, delivery frameworks, measurable KPIs, and cross-functional leadership.
 
-I am expanding this foundation through applied AI, automation, and agentic systems to improve program execution, decision support, knowledge management, and operational efficiency.
+I combine program leadership with deep telecommunications and engineering experience, strategic consulting, software and SaaS delivery, and applied AI to support complex technology transformation.
 
 ---
 
@@ -19,9 +19,10 @@ I am expanding this foundation through applied AI, automation, and agentic syste
 | Area | Experience |
 |---|---|
 | Leadership | 20+ years across technology, telecom, consulting, delivery, and transformation |
-| Program & Portfolio Management | Complex multi-country and cross-functional initiatives |
+| Program & Portfolio Management | Complex multi-country and national-scale initiatives |
 | Portfolio Scale | Environments up to USD 130M |
-| CAPEX Exposure | Programs exceeding USD 90M |
+| Regional Portfolio Leadership | Approximately USD 90M across telecom, cloud, and infrastructure |
+| National Broadband Program | USD 39.7M program |
 | Delivery Models | Predictive, Agile, Scrum, Hybrid |
 | Industries | Telecommunications, IT, Cloud, SaaS, Digital Transformation |
 | Governance | PMO, OKR, KPI, Risk, Financial Control, Executive Reporting |
@@ -35,42 +36,50 @@ I am expanding this foundation through applied AI, automation, and agentic syste
 - Program and Portfolio Management
 - PMO Design and Governance
 - Technology Delivery Leadership
-- Digital Transformation
+- Digital Infrastructure Strategy
 - Telecommunications Program Management
 - Cloud and SaaS Delivery
 - Product and Technical Program Management
 - Post-Sales Project Management
+- Strategic Consulting
+- Telecom Architecture and Modernization
 - Executive Stakeholder Management
 - Risk, Cost, CAPEX and OPEX Governance
 - KPI and OKR Frameworks
 - Cross-Functional Team Leadership
 - Agile, Scrum and Hybrid Delivery
-- Process Improvement
 - AI-enabled Program Management
 - Automation and Agentic AI
 
 ---
 
-## Selected Portfolio
+## Selected Executive Portfolio
 
-### 1. Complex Technology & Telecommunications Programs
+### 1. National Digital Infrastructure Strategy & Regulatory Modernization
 
-Leadership of large-scale, multi-country technology programs involving engineering, deployment, operations, suppliers, customers, executives, and cross-functional delivery teams.
+National-level telecommunications consulting engagement covering broadband market analysis, 10-year demand outlook, operator benchmarking, telecommunications architecture, strategic decision support, and regulatory modernization.
 
-**Portfolio evidence includes:**
-- Program governance
-- Delivery planning
-- RAID management
-- Executive reporting
-- CAPEX and OPEX control
-- KPI management
-- Stakeholder alignment
-- Multi-vendor coordination
-- Recovery of high-risk delivery environments
+### 2. USD 39.7M National Broadband Program
 
-[View case studies](./case-studies/README.md)
+Program leadership spanning broadband architecture, design, governance, procurement strategy, and multi-stakeholder coordination for national digital infrastructure.
 
-### 2. PMO & Portfolio Governance
+### 3. Regional Telecom, Cloud & Infrastructure Portfolio
+
+Leadership of an approximately USD 90M regional portfolio across telecommunications, cloud, and infrastructure, with emphasis on KPI governance, SLA performance, risk control, financial visibility, and executive reporting.
+
+### 4. Enterprise SaaS & Post-Sales Delivery
+
+Post-sales leadership for enterprise SaaS solutions across Latin America, coordinating customers, engineering, architecture, technical support, service continuity, and software delivery.
+
+### 5. WaveNexus Technology Product Program
+
+Product and technical program leadership for a microwave network planning and engineering platform integrating RF, propagation, GIS, terrain, synchronization, transport, reporting, licensing, enterprise capabilities, and AI-assisted development.
+
+[View Executive Case Studies](./case-studies/README.md)
+
+---
+
+## PMO & Portfolio Governance
 
 Practical governance models designed to improve execution visibility, accountability, prioritization, and management decision-making.
 
@@ -85,34 +94,13 @@ Practical governance models designed to improve execution visibility, accountabi
 - Benefits tracking
 - Program health reporting
 
-[View governance frameworks](./frameworks/README.md)
+[View Governance Frameworks](./frameworks/README.md)
 
-### 3. WaveNexus
+---
 
-**Microwave Network Planning & Engineering Platform**
+## AI-Enabled Delivery & Agentic Systems
 
-WaveNexus is a technology product initiative combining microwave engineering, GIS, terrain analysis, RF propagation, network design, synchronization, reporting, licensing, and enterprise capabilities.
-
-From a program and product leadership perspective, the initiative demonstrates:
-
-- Product vision and scope definition
-- Multi-phase roadmap management
-- Requirements decomposition
-- Engineering governance
-- Architecture coordination
-- Release planning
-- QA and verification strategy
-- Version governance
-- Risk management
-- Build and test evidence
-- CI/CD-oriented development workflow
-- AI-assisted product development
-
-The production source code remains private. This portfolio documents selected management, architecture, governance, and delivery practices without exposing proprietary implementation details.
-
-### 4. AI-Enabled Delivery & Agentic Systems
-
-Applied exploration of AI, automation, and agentic workflows for technology leadership and program execution.
+Applied AI, automation, and agentic workflows for technology leadership and program execution.
 
 **Current areas of application:**
 - Automated project reporting
@@ -125,7 +113,19 @@ Applied exploration of AI, automation, and agentic workflows for technology lead
 - Program data analysis
 - Executive information synthesis
 
-[View AI-enabled delivery portfolio](./ai-enabled-delivery/README.md)
+[View AI-Enabled Delivery Portfolio](./ai-enabled-delivery/README.md)
+
+---
+
+## Technical Leadership & Knowledge Transfer
+
+15+ years of university, postgraduate, professional, and executive education experience across telecommunications, engineering, technology strategy, and project management.
+
+**Selected domains:**
+
+5G NSA/SA · 5G Core · Microwave Planning · Broadband Architecture · NGN · IP/MPLS · Intelligent Networks · Transport Networks · Network Modernization · Agile & Project Management
+
+This teaching and knowledge-transfer background strengthens my ability to bridge engineering depth, executive communication, and organizational capability development.
 
 ---
 
@@ -147,11 +147,9 @@ Jira · Asana · Trello · ClickUp · Smartsheet · Microsoft Project · GitHub 
 
 ---
 
-## Portfolio Philosophy
+## Executive Value Proposition
 
-Technology leadership requires more than managing schedules. Strong delivery connects business objectives, engineering realities, financial constraints, stakeholder expectations, governance, risk, and measurable outcomes.
-
-This portfolio documents how I approach that intersection.
+I work at the intersection of business strategy, program governance, engineering, digital infrastructure, and technology delivery. My focus is to convert complex technical initiatives into controlled programs with clear accountability, measurable outcomes, and executive visibility.
 
 ---
 
