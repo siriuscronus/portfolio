@@ -4,7 +4,7 @@
 
 **Program Management | Portfolio Governance | PMO | Telecommunications | Cloud | Digital & AI Transformation**
 
-PMP | PMI-ACP | PSM I
+MBA | MSc | PMP | PMI-ACP | PSM I
 
 Senior technology and transformation leader with 20+ years of experience delivering complex, multi-country programs across telecommunications, IT, cloud, SaaS, digital transformation, and post-sales environments in Latin America.
 
