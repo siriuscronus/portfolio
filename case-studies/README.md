@@ -6,13 +6,13 @@ The focus is on scale, governance, architecture, stakeholder alignment, decision
 
 ## Flagship Programs & Engagements
 
-### 1. National Digital Infrastructure Strategy, Market Intelligence & Regulatory Modernization
+### 1. National Digital Infrastructure Strategy, Network Management Platform & Regulatory Modernization
 
 **Organization:** Avasant  
-**Role:** Project Director  
+**Role:** Project Director | Solution / Product Architect  
 **Scope:** National telecommunications and broadband strategy, Nicaragua
 
-National-level consulting engagement covering broadband market analysis, a 10-year demand outlook, operator benchmarking, telecommunications architecture, strategic decision support, and regulatory modernization.
+National-level consulting engagement covering broadband market analysis, a 10-year demand outlook, operator benchmarking, telecommunications architecture, regulatory modernization, and the architecture and development management of a national telecommunications network management platform spanning multiple operators and technologies.
 
 [View full case study](./avasant-national-digital-strategy.md)
 
