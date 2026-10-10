@@ -174,6 +174,6 @@ I work at the intersection of business strategy, program governance, engineering
 
 **Rodrigo Campos**
 
-LinkedIn: https://www.linkedin.com/in/rodrigocampos
+LinkedIn: https://www.linkedin.com/in/rodrigocamposni
 
 Email: rodrigo.campos.ni@gmail.com
