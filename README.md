@@ -1,3 +1,5 @@
+<img width="1983" height="793" alt="image" src="https://github.com/user-attachments/assets/27817c6c-61c1-4cfb-981d-2325b278369c" />
+
 # Rodrigo Campos
 
 ## Engineering Executive | Digital Infrastructure Modernization | Systems Integration | Complex Program & Portfolio Leadership | Telecommunications | Artificial Intelligence
